@@ -52,4 +52,3 @@ mots_parasites = recuperer_mots_parasites(chemin_fichier_csv)
 print("Mots parasites lus depuis le fichier CSV :")
 print(mots_parasites)
 
-
